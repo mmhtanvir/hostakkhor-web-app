@@ -1,0 +1,44 @@
+{
+  "skyharvest": {
+    "name": "Skyharvest",
+    "themesDirPath": "src/themes/skyharvest",
+    "primaryColor": "#1a365d",
+    "secondaryColor": "#2d3748",
+    "accentColor": "#4299e1",
+    "tenantLogoImage": "https://files.hostakkhor.com/download/compressed-b6ac5faf-skyharvest_logo.png",
+    "createNewPostPlaceholdertext": "What's on your mind?",
+    "allowTextBeforeAttachment": true,
+    "showHeaderSearch": true,
+    "allowVideoUpload": true,
+    "navigation": {
+      "home": true,
+      "communities": true,
+      "messages": true,
+      "notifications": true,
+      "profile": true
+    }
+  },
+  "hostakkhor": {
+    "name": "Hostakkhor",
+    "themesDirPath": "src/themes/hostakkhor",
+    "primaryColor": "#2c5282",
+    "secondaryColor": "#2a4365",
+    "accentColor": "#63b3ed",
+    "createNewPostPlaceholdertext": "Upload your handwriting here...",
+    "afterAttachmentPlaceholderText": "Add a note",
+    "allowTextBeforeAttachment": false,
+    "showHeaderSearch": false,
+    "allowVideoUpload": false,
+    "authBackgroundImage": "https://hostakkhor.com/static/media/auth-bg.0edbd07394b4ac7cae37.png",
+    "tenantLogoImage": "https://files.hostakkhor.com/download/711dffc3-3e8f-4b55-ad6b-f43a2eed6c2e-hotakkhor-logo.svg",
+    "bannerImage": "https://hostakkhor.com/static/media/bg.965b09acad6aeacfdfb2.png",
+    "aboutUsLink": "https://hostakkhor.com",
+    "navigation": {
+      "home": true,
+      "communities": true,
+      "messages": false,
+      "notifications": false,
+      "profile": true
+    }
+  }
+}
